@@ -1,0 +1,16 @@
+{
+  "name": "coffe-server",
+  "version": "1.0.0",
+  "description": "The RESTful API for mycoffe PWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test ",
+    "run": "node index"
+  },
+  "author": "larslemos",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express-nedb-rest": "^1.2.4"
+  }
+}
